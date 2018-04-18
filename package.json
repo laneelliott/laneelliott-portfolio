@@ -1,0 +1,23 @@
+{
+  "name": "laneelliott-portfolio",
+  "version": "1.0.0",
+  "description": "Web Development Portfolio Site",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laneelliott/laneelliott-portfolio.git"
+  },
+  "author": "Lane Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laneelliott/laneelliott-portfolio/issues"
+  },
+  "homepage": "https://github.com/laneelliott/laneelliott-portfolio#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
