@@ -6,9 +6,25 @@ gold:           #7F6C40;
 brown:          #332E24;
 green:          #1DD81D;
 white:          #FEFEFA;
-
 */
+
+/* Colors
+dark green:     #61892F;
+light green:    #86C232;
+dark gray:      #222629;
+gray:           #474B4F;
+light gray:     #6B6E70;
+white:          #FEFEFA;
+*/
+
+
 /* General Styles */
-body {
-    background-color: #FEFEFA;
+
+/* Banner Styles */
+#banner {
+    height: 100vh;
+    background-color: #222629;
+}
+#banner h2 {
+    color: #86C232;
 }
